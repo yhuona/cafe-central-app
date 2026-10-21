@@ -1,6 +1,7 @@
 # App Cafeteria Central 
 <h2>Acerca de</h2>
-<p>¡<strong>Aplicación web</strong> para tener la cafeteria desde la comodidad de tu hogar! Consulta el <b>menú y realizar pedidos</b>  desde tus dispositivos móviles o computador.</p>
+<p>¡<strong>Aplicación web</strong> para tener la cafeteria desde la comodidad de tu hogar! Consulta el <b>menú y
+realizar pedidos</b>  desde tus dispositivos móviles o computador.</p>
 <h4>¡Menos Problemas!<p><em>"Hemos resuelto problemas que tienen que ver con las funciones iniciales"</em></p></h4>
 
 - Funciones intuitivas en la interfaz
